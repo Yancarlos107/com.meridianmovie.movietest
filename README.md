@@ -1,16 +1,7 @@
-# peliculas
+# Prueba Tecnica MeridianGroup
 
-A new Flutter project.
+Aplicacion que se encarga de cargar una lista de categorias de peliculas, la cual realiza la busqueda de las peliculas de la categoria seleccionada, implementando tambien un infinite Scroll y una barra de busqueda de peliculas por su nombre, con el detalle de cada pelicula con datos como: Nombre, Sinopsis, y Reparto.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Correr el comando pub get en la consola, para que el archivo pubspec.yaml actualice y descarge los pubs necesarios para la correcta ejecucion del proyecto.
